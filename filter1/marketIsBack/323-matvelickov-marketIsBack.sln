@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "323-matvelickov-marketIsBack", "323-matvelickov-marketIsBack.csproj", "{1018775E-1BB4-48A8-9CE5-EE0D1C86BBD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1018775E-1BB4-48A8-9CE5-EE0D1C86BBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1018775E-1BB4-48A8-9CE5-EE0D1C86BBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1018775E-1BB4-48A8-9CE5-EE0D1C86BBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1018775E-1BB4-48A8-9CE5-EE0D1C86BBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCD18EE-1A1C-4CAA-A94D-614364451D02}
+	EndGlobalSection
+EndGlobal

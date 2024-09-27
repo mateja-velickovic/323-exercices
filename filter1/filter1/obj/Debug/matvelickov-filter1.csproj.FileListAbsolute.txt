@@ -1,0 +1,7 @@
+C:\Users\pe04uhp\Desktop\Solutions\filter1\matvelickov-filter1\bin\Debug\matvelickov-filter1.exe.config
+C:\Users\pe04uhp\Desktop\Solutions\filter1\matvelickov-filter1\bin\Debug\matvelickov-filter1.exe
+C:\Users\pe04uhp\Desktop\Solutions\filter1\matvelickov-filter1\bin\Debug\matvelickov-filter1.pdb
+C:\Users\pe04uhp\Desktop\Solutions\filter1\matvelickov-filter1\obj\Debug\matvelickov-filter1.csproj.AssemblyReference.cache
+C:\Users\pe04uhp\Desktop\Solutions\filter1\matvelickov-filter1\obj\Debug\matvelickov-filter1.csproj.CoreCompileInputs.cache
+C:\Users\pe04uhp\Desktop\Solutions\filter1\matvelickov-filter1\obj\Debug\matvelickov-filter1.exe
+C:\Users\pe04uhp\Desktop\Solutions\filter1\matvelickov-filter1\obj\Debug\matvelickov-filter1.pdb

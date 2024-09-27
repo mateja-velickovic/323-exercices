@@ -1,0 +1,12 @@
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\bin\Debug\323-starwars.exe.config
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\bin\Debug\323-starwars.exe
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\bin\Debug\323-starwars.pdb
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\bin\Debug\SWapiCSharp.dll
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\bin\Debug\SWapiCSharp.pdb
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\obj\Debug\323-starwars.csproj.AssemblyReference.cache
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\obj\Debug\323-starwars.csproj.CoreCompileInputs.cache
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\obj\Debug\323-star.1E130A4D.Up2Date
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\obj\Debug\323-starwars.exe
+C:\Users\pe04uhp\Desktop\Solutions\starwars\323-starwars\obj\Debug\323-starwars.pdb

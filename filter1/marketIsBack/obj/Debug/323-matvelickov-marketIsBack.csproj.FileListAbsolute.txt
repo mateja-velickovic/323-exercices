@@ -1,0 +1,7 @@
+C:\Users\pe04uhp\Desktop\Solutions\filter1\323-matvelickov-marketIsBack\obj\Debug\323-matvelickov-marketIsBack.csproj.AssemblyReference.cache
+C:\Users\pe04uhp\Desktop\Solutions\filter1\323-matvelickov-marketIsBack\obj\Debug\323-matvelickov-marketIsBack.csproj.CoreCompileInputs.cache
+C:\Users\pe04uhp\Desktop\Solutions\filter1\323-matvelickov-marketIsBack\bin\Debug\323-matvelickov-marketIsBack.exe.config
+C:\Users\pe04uhp\Desktop\Solutions\filter1\323-matvelickov-marketIsBack\bin\Debug\323-matvelickov-marketIsBack.exe
+C:\Users\pe04uhp\Desktop\Solutions\filter1\323-matvelickov-marketIsBack\bin\Debug\323-matvelickov-marketIsBack.pdb
+C:\Users\pe04uhp\Desktop\Solutions\filter1\323-matvelickov-marketIsBack\obj\Debug\323-matvelickov-marketIsBack.exe
+C:\Users\pe04uhp\Desktop\Solutions\filter1\323-matvelickov-marketIsBack\obj\Debug\323-matvelickov-marketIsBack.pdb

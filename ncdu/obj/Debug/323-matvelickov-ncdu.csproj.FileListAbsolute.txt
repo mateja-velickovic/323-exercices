@@ -1,0 +1,7 @@
+C:\Users\pe04uhp\Desktop\323-matvelickov-ncdu\bin\Debug\323-matvelickov-ncdu.exe.config
+C:\Users\pe04uhp\Desktop\323-matvelickov-ncdu\bin\Debug\323-matvelickov-ncdu.exe
+C:\Users\pe04uhp\Desktop\323-matvelickov-ncdu\bin\Debug\323-matvelickov-ncdu.pdb
+C:\Users\pe04uhp\Desktop\323-matvelickov-ncdu\obj\Debug\323-matvelickov-ncdu.csproj.AssemblyReference.cache
+C:\Users\pe04uhp\Desktop\323-matvelickov-ncdu\obj\Debug\323-matvelickov-ncdu.csproj.CoreCompileInputs.cache
+C:\Users\pe04uhp\Desktop\323-matvelickov-ncdu\obj\Debug\323-matvelickov-ncdu.exe
+C:\Users\pe04uhp\Desktop\323-matvelickov-ncdu\obj\Debug\323-matvelickov-ncdu.pdb

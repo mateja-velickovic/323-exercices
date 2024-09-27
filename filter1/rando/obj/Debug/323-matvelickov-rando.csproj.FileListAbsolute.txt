@@ -1,0 +1,2 @@
+C:\Users\pe04uhp\Desktop\Solutions\filter1\323-matvelickov-rando\obj\Debug\323-matvelickov-rando.csproj.AssemblyReference.cache
+C:\Users\pe04uhp\Desktop\Solutions\filter1\323-matvelickov-rando\obj\Debug\323-matvelickov-rando.csproj.CoreCompileInputs.cache
